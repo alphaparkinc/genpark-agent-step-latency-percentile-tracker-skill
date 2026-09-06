@@ -1,0 +1,17 @@
+{
+  "name": "genpark-agent-step-latency-percentile-tracker-skill",
+  "version": "1.0.0",
+  "description": "P50, P90, P99 sliding-window latency accumulator, bottleneck step isolation, and histogram quantiles.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "latency",
+    "percentiles",
+    "p50",
+    "p90",
+    "p99",
+    "profiling",
+    "genpark",
+    "mcp"
+  ]
+}
